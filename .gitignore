@@ -25,3 +25,5 @@ Thumbs.db
 # Hugging Face / model cache
 .cache/
 models/
+
+.env
